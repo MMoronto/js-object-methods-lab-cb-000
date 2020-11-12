@@ -7,18 +7,19 @@ class President {
   }
   
   veto() {
-    return("NO!");
+    return "NO!";
   }
   
   passBill() {
-    return("You can do that!");
+    return "You can do that!";
   }
   
   doCharity() {
-    return("I like to help People.")
+    return "I like to help People."
   }
   
   conductPressInterview() {
-    return("I am proud to be an American.")
+    return "I am proud to be an American."
   }
+  
 }
