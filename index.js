@@ -22,4 +22,7 @@ class President {
     return "I am proud to be an American."
   }
   
+  sayHi() {
+    return ""
+  }
 }
